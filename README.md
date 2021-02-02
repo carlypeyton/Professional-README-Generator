@@ -1,11 +1,11 @@
 # Professional README Generator
   
   ### Table of Contents
-  1. [Project Description](#description)
-  2. [Installation Instructions](#installation)
-  3. [Usage Information](#usage)
-  4. [Contribution Guidelines](#contribution)
-  5. [Test Instructions](#tests)
+  1. [Project Description](#project-description)
+  2. [Installation Instructions](#installation-instructions)
+  3. [Usage Information](#usage-information)
+  4. [Contribution Guidelines](#contribution-guidelines)
+  5. [Test Instructions](#test-instructions)
   6. [License](#license)
   7. [Questions](#questions)
   
