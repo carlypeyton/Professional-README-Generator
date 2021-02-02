@@ -84,7 +84,7 @@ function promptUser() {
 function generateREADME(answers) {
     return `# ${answers.title}
     
-    #### Table of Contents
+    ### Table of Contents
     1. [Project Description](#description)
     2. [Installation Instructions](#installation)
     3. [Usage Information](#usage)
