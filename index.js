@@ -115,3 +115,23 @@ function generateREADME(answers) {
     * For additional help or questions, please contact ${answers.email}
     * Follow me on Github at [${answers.username}](http://github.com/${answers.username})`;
 }
+
+//Async/await - Async function always returns promise
+const init = async () => {
+    //Try/catch
+    try {
+        //Await - wait until promise settles and returns result from promptUser function
+        const answers = await promptUser();
+        const readme = generateREADME(answers);
+        await writeFileAsync('README.md', readme);
+        //Log message to console to let user know README file has been successfully created
+        console.log('README.md has been created!');
+    } catch (err) {
+       //Handle all errors and og errors to console
+        console.log(err);
+    }
+};
+
+///////////////////////RUN TIME//////////////////////////
+
+init();
