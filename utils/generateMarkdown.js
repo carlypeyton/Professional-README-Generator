@@ -2,6 +2,8 @@
 function generateREADME(answers) {
   return `# ${answers.title}
   
+  ![badge](https://img.shields.io/badge/license-${answers.license}-blue)
+
   ### Table of Contents
   1. [Project Description](#description)
   2. [Installation Instructions](#installation)
