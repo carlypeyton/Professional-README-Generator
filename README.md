@@ -1,4 +1,4 @@
-# Professional README Generator
+# Example
     
     #### Table of Contents
     1. [Project Description](#description)
@@ -10,23 +10,23 @@
     7. [Questions](#questions)
 
     ## Project Description
-    * This allows users to create thorough, professional README files from the command line.
+    * test
 
     ## Installation Instructions
-    * NA
+    * test
 
     ## Usage Information
-    * NA
+    * test
 
     ## Contribution Guidelines
-    * NA
+    * test
 
     ## Test Instructions
-    * NA
+    * test
 
     ## License
-    * Licensed under ISC
+    * Licensed under Academic
 
     ## Questions
-    * For additional help or questions, please contact carlypeyton@gmail.com
-    * Follow me on Github at [carlypeyton	](http://github.com/carlypeyton	)
+    * For additional help or questions, please contact test
+    * Follow me on Github at [test](http://github.com/test)
