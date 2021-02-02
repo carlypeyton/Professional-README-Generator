@@ -1,6 +1,6 @@
 # Example
     
-    #### Table of Contents
+    ### Table of Contents
     1. [Project Description](#description)
     2. [Installation Instructions](#installation)
     3. [Usage Information](#usage)
@@ -10,23 +10,23 @@
     7. [Questions](#questions)
 
     ## Project Description
-    * test
+    * example
 
     ## Installation Instructions
-    * test
+    * example
 
     ## Usage Information
-    * test
+    * example
 
     ## Contribution Guidelines
-    * test
+    * example
 
     ## Test Instructions
-    * test
+    * example
 
     ## License
     * Licensed under Academic
 
     ## Questions
-    * For additional help or questions, please contact test
-    * Follow me on Github at [test](http://github.com/test)
+    * For additional help or questions, please contact example@example.com
+    * Follow me on Github at [example](http://github.com/example)
