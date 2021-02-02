@@ -8,21 +8,26 @@
   5. [Test Instructions](#tests)
   6. [License](#license)
   7. [Questions](#questions)
+  
+  ## Application Walkthrough:
+  ![Application Walkthrough Gif]()
+  * https://drive.google.com/file/d/1U_kx69nVOLWeo7b9b_Ajkt6EmkWMiobI/view
+
 
   ## Project Description
-  * This allows users to easily create thorough, professional README files through the command line.
+  * This command-line application allows users to easily create thorough, professional README files with user input
   
   ## Installation Instructions
-  * N/A
+  * Install npm inquirer package
 
   ## Usage Information
-  * Create professional README files, with all relevant information, within the terminal.
+  * Save time by creating professional README files, with all relevant information, from the command line
 
   ## Contribution Guidelines
-  * Please contact Carly Peyton for further information.
+  * Please contact Carly Peyton for further information
 
   ## Test Instructions
-  * N/A
+  * No tests required
 
   ## License
   * Licensed under ISC
