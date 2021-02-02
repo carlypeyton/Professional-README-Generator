@@ -82,7 +82,6 @@ function promptUser() {
     ]);
 }
 
-
 //Async/await - Async function always returns promise
 const init = async () => {
     //Try/catch
