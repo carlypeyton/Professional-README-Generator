@@ -10,7 +10,7 @@
   7. [Questions](#questions)
   
   ## Application Walkthrough:
-  ![Application Walkthrough Gif]()
+  ![Application Walkthrough Gif](Demo.gif)
   * https://drive.google.com/file/d/1U_kx69nVOLWeo7b9b_Ajkt6EmkWMiobI/view
 
 
