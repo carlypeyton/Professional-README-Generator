@@ -14,6 +14,7 @@
   ## Application Walkthrough:
   ![Application Walkthrough Gif](Demo.gif)
   * https://drive.google.com/file/d/1Glsq1esR_yTe3EUOg-417uqkjl9n-7wp/view
+
   ![Generated README Walkthrough Gif](Demo2.gif)
   * https://drive.google.com/file/d/1LAu6XKo7Oha2I951T09Gda33y0zhLP17/view?usp=sharing
 
