@@ -1,4 +1,6 @@
 # Professional README Generator
+
+![](https://img.shields.io/badge/license-ISC%20License-blue?style=flat-square)
   
   ### Table of Contents
   1. [Project Description](#project-description)
