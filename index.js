@@ -17,7 +17,7 @@ function promptUser() {
         {
             type: 'input',
             name: 'badge',
-            message: 'Provide relevant badge link: '
+            message: 'Provide relevant license badge link: '
         },
         {
             type: 'input',

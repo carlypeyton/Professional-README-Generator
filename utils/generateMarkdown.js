@@ -2,7 +2,7 @@
 function generateREADME(answers) {
   return `# ${answers.title}
   
-  ![badge](${answers.badge})
+  ![License](${answers.badge})
 
   ### Table of Contents
   1. [Project Description](#description)
