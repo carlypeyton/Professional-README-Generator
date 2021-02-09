@@ -2,6 +2,8 @@
 function generateREADME(answers) {
   return `# ${answers.title}
   
+  ![badge](${answers.badge})
+
   ### Table of Contents
   1. [Project Description](#description)
   2. [Installation Instructions](#installation)

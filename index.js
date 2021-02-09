@@ -16,6 +16,11 @@ function promptUser() {
         },
         {
             type: 'input',
+            name: 'badge',
+            message: 'Provide relevant badge link: '
+        },
+        {
+            type: 'input',
             name: 'description',
             message: 'Describe the project: ',
         },
