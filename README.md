@@ -4,10 +4,10 @@
   
   ### Table of Contents
   1. [Project Description](#project-description)
-  2. [Installation Instructions](#installation-instructions)
-  3. [Usage Information](#usage-information)
-  4. [Contribution Guidelines](#contribution-guidelines)
-  5. [Test Instructions](#test-instructions)
+  2. [Technologies Used](#technologies-used)
+  3. [Installation Instructions](#installation-instructions)
+  4. [Usage Information](#usage-information)
+  5. [Contribution Guidelines](#contribution-guidelines)
   6. [License](#license)
   7. [Questions](#questions)
   
@@ -21,19 +21,19 @@
 
   ## Project Description
   * This command-line application allows users to easily create thorough, professional README files with user input
+
+  ## Technologies Used
+  * Node
   
   ## Installation Instructions
   * Install npm inquirer package
 
   ## Usage Information
-  * Save time by creating professional README files, with all relevant information, from the command line
+  * Save time by creating professional README files, with all relevant information, from the command line.
 
   ## Contribution Guidelines
-  * Please contact Carly Peyton for further information
-
-  ## Test Instructions
-  * No tests required
-
+  * Please contact Carly Peyton for further information.
+  
   ## License
   * Licensed under ISC
   
